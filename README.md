@@ -27,7 +27,7 @@ This Hacking Tools Recomended For Education
 ![menu](https://user-images.githubusercontent.com/97229948/173289867-7c4834be-7e3d-4eb1-975c-295fd0d96ca1.png)
 
 
-## Running Via Windows
+## Running Via GIT BASH
     git clone https://github.com/Nabil-Syahnaufal/HackTools.git
     
     cd HackTools
