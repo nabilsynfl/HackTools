@@ -36,3 +36,14 @@ This Hacking Tools Recomended For Education
     
     py HackTools.py
     
+    
+    
+## Running Via Linux ![Linux](https://img.icons8.com/color/30/linux.png)
+    git clone https://github.com/Nabil-Syahnaufal/HackTools.git
+    
+    cd HackTools
+    
+    pip install -r requirements.txt
+    
+    py HackTools.py
+    
