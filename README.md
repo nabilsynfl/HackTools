@@ -30,7 +30,7 @@ This Hacking Tools Recomended For Education
 ## Running Via Git Bash <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     git clone https://github.com/Nabil-Syahnaufal/HackTools.git
     
-    cd HackTools\HackTools
+    cd HackTools/HackTools
     
     py -m pip install -r requirements.txt
     
@@ -41,7 +41,7 @@ This Hacking Tools Recomended For Education
 ## Running Via Linux ![Linux](https://img.icons8.com/color/30/linux.png)
     git clone https://github.com/Nabil-Syahnaufal/HackTools.git
     
-    cd HackTool\HackTools
+    cd HackTool/HackTools
     
     pip install -r requirements.txt
     
