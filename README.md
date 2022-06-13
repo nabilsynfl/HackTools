@@ -13,8 +13,7 @@ This Hacking Tools Recomended For Education
 ![Windows](https://img.icons8.com/color/30/windows-10.png)
 
 
-## HackTools Menu 
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+## HackTools Menu ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 - [x] Get IP from Host
 - [X] Ping Sweep IP
 - [X] Traceroute IP
