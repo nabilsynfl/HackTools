@@ -1,5 +1,5 @@
 # HackTools
-Simple code Python, recomended for education  
+Simple code Python for hacking tools
 
 
 ![](https://img.shields.io/github/license/Nabil-Syahnaufal/HackTools)
