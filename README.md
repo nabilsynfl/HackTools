@@ -14,6 +14,7 @@ This Hacking Tools Recomended For Education
 
 
 ## HackTools Menu 
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 - [x] Get IP from Host
 - [X] Ping Sweep IP
 - [X] Traceroute IP
